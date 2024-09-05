@@ -15,7 +15,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hello, I'm Tia! 
+Hello, I'm Tia! I am a data analyst interested in using data science and biostatistics to improve women's health. Prior to pursuring my MS, I worked in an analytical chemistry lab for a small pharmaceutical company. If you would like to connect or collaborate on a project, please reach out! 
+
+## Education
+MS in Biostatistics - Oregon Health and Sciences University & Portland State University
+BS in Bioengineering - University of Maryland, College Park 
+
+## Coding Languages
+- R
+- Python
+- SAS
+- SQL
+  
+## Current Projects
 
 ## Work Experience
 

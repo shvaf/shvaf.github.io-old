@@ -21,6 +21,5 @@ Hello, I'm Tia!
 
 
 ## 📫 How to reach me:
-📧 shvafeas@gmail.com 
-
-[LinkedIn](https://www.linkedin.com/in/stamatiavafeas/)
+- 📧 shvafeas@gmail.com 
+- [LinkedIn](https://www.linkedin.com/in/stamatiavafeas/)

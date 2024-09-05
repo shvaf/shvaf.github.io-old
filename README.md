@@ -19,6 +19,7 @@ Hello, I'm Tia! I am a data analyst interested in using data science and biostat
 
 ## Education
 MS in Biostatistics - Oregon Health and Sciences University & Portland State University
+
 BS in Bioengineering - University of Maryland, College Park 
 
 ## Coding Languages
@@ -28,6 +29,16 @@ BS in Bioengineering - University of Maryland, College Park
 - SQL
   
 ## Current Projects
+### Analysis of Severe Maternal Morbidity Using OHSU Health Records
+•	Analyzed and cleaned electronic health records associated with 15,000 birth records to build a cohort of 192 patients who had experienced severe post-partum morbidities 
+
+•	Identified that 15% of the patients with severe maternal morbidities experienced them in late post-partum indicating a high prevalence of maternal morbidities in an under-researched time frame
+
+### Determining a Biological Pattern to Frailty using the MrOS Cohort	with R
+•	Created an ordinal regression model in R that evaluated the protein panels for 485 elderly patients to determine if there is a biological pattern to frailty 
+
+•	Out of the 7000+ proteins that were analyzed using machine learning methods such as random forest, 62 proteins were highly relevant predictors of overall frailty
+
 
 ## Work Experience
 

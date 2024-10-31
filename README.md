@@ -1,3 +1,8 @@
+## Read Me First! Oct0ber 31, 2024
+Happy Halloween! 
+Thank you so much for coming by to check out my website. This wesbite is currently under active construction. If you found this website through a job application, I chose to include it in hopes that as the interview process went on, I would have more projects to show. If you have any feedback on the website, please email me or reach on on LinkedIn as this is an oncoming project and I am open to any and all feedback. Thanks!!
+- Tia 
+
 ## Hi there 👋
 
 <!--

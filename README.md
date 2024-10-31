@@ -44,6 +44,9 @@ BS in Bioengineering - University of Maryland, College Park
 
 •	The dataset was obtained from Kaggle and evaluated to determine a comparable cost for 1600+ coffees and optimize coffee selection based on cost and quality
 
+• [Link to Project] (https://sph-r-programming-2023-midterms.netlify.app/midterm/midterm_vafeas.html)
+
+
 
 ## Work Experience
 ### Intern – Biostatistics Shared Resource Core 					

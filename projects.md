@@ -1,12 +1,17 @@
 ---
-layout: page
 title: Projects
+layout: default
 permalink: /projects/
 ---
 
-## Projects
+<nav>
+  <a href="/">Home</a>
+  <a href="/projects">Projects</a>
+  <a href="/about">About Me</a>
+</nav>
 
-Here’s a selection of my recent work with healthcare data and analytics:
-- **Maternal Morbidity Project** – EMR, claims, and SDOH analysis in R and SQL
-- **Diagnostic NLP Tool** – Built with Python for radiology outcome classification
-- (Add more here)
+# Projects
+
+- **Maternal Morbidity Analysis**: Used EMR, claims, and SDOH data in R and SQL
+- **Diagnostic NLP Tool**: Python + Regex → 98% accuracy from radiology text
+- **Donor Data Cleanup**: Regex + R for CRM migration (2216 donations processed)

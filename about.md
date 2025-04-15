@@ -1,10 +1,15 @@
 ---
-layout: page
 title: About Me
+layout: default
 permalink: /about/
 ---
 
-## About Me
+<nav>
+  <a href="/">Home</a>
+  <a href="/projects">Projects</a>
+  <a href="/about">About Me</a>
+</nav>
 
-Hi, I’m Tia – a biostatistician and healthcare data enthusiast based in Portland, OR...
-(Add your personal/professional bio here)
+# About Me
+
+I'm Tia — a biostatistician based in Portland, OR with a passion for using real-world data to solve complex health challenges. I love pastry baking, CrossFit, and working with messy EMR data.

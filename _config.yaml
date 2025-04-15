@@ -2,3 +2,10 @@ title: Tia Vafeas
 logo: images/Headshot_circle2.png 
 show_downloads: true
 theme: jekyll-theme-minimal
+nav:
+  - title: "Home"
+    url: "/"
+  - title: "Projects"
+    url: "/projects/"
+  - title: "About Me"
+    url: "/about/"

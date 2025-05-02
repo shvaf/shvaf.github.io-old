@@ -1,11 +1,16 @@
 title: Tia Vafeas
-logo: images/Headshot_circle2.png 
-show_downloads: true
-theme: jekyll-theme-cayman
-nav:
-  - title: "Home"
-    url: "/"
-  - title: "Projects"
-    url: "/projects/"
-  - title: "About Me"
-    url: "/about/"
+email: shvafeas@gmail.com
+description: >-
+  Biostatistician passionate about real-world data and healthcare analytics.
+
+url: "https://shvaf.github.io" # your domain
+baseurl: "" # keep this empty
+
+theme: null
+remote_theme: alshedivat/al-folio
+
+# Navigation
+navbar-links:
+  About Me: "about"
+  Projects: "projects"
+  CV: "cv"

@@ -3,7 +3,7 @@ email: shvafeas@gmail.com
 description: >-
   Biostatistician passionate about real-world data and healthcare analytics.
 
-url: "https://shvaf.github.io" # your domain
+#url: "https://shvaf.github.io" # your domain
 baseurl: "" # keep this empty
 
 theme: null
